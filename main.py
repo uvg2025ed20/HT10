@@ -277,6 +277,5 @@ def main():
         else:
             print("Opción inválida. Intente de nuevo.")
 
-# Ejecutar el programa directamente
 if __name__ == "__main__":
     main()
