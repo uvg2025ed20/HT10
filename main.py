@@ -278,4 +278,5 @@ def main():
             print("Opción inválida. Intente de nuevo.")
 
 # Ejecutar el programa directamente
-main()
+if __name__ == "__main__":
+    main()
